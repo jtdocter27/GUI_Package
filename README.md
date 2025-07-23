@@ -1,4 +1,4 @@
-![Eco](logo2.png)
+<img src="logo2.png" alt="Eco" width="200"/>
 
 Please reach out to john.docter@colorado.edu with any questions 
 
