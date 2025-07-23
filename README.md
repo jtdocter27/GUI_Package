@@ -1,4 +1,4 @@
-<img src="logo2.png" alt="Eco" width="200"/>
+<img src="logo2.png" alt="Eco" width="400"/>
 
 Please reach out to john.docter@colorado.edu with any questions 
 
