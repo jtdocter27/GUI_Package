@@ -19,3 +19,8 @@ Instructions
 5. A webpage should open and the program should be running. 
 6. Follow all prompts to output a threat assessment. 
 
+Useful Tips
+===========
+"EC_List_For-Parsing.txt" needs to stay where it is relative to the main script. 
+
+"Post Processing Scripts" are for going outside the bounds of the GUI. There are scripts for cleaning data downloaded from JGI (for custom analyses) as well as analyzing the data that comes out of the program and visualizing it. The program will run fine without these, they are there as a "might be useful". 
